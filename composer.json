@@ -1,0 +1,19 @@
+{
+    "name": "melba-ch/swiss-holidays",
+    "description": "Does this date is a holiday in these cantons ?",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Jeremy Gasche",
+            "email": "jeremy@melba.ch",
+            "homepage": "http://melba.ch/",
+            "role": "Developer"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MelbaCH\\SwissHolidays\\": "src/"
+        }
+    }
+}
