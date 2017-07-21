@@ -16,6 +16,7 @@ class NE extends Swiss
 		"WhitMonday",
 		"SwissNationalDay",
 		"FederalDayOfThanksgiving",
+		"LundiDuJeune",
 		"ChristmasDay",
 		
 	];
